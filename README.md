@@ -1,4 +1,4 @@
-<h1 style="font-size: 36px;">SOCTools</h1>
+<h1 style="font-size: 36px;">SOCTools for FortiProducts</h1>
 
 <img width="1417" alt="Screen Shot 2023-05-10 at 8 05 22 PM" src="https://github.com/MarstotheBars/SOCTools/assets/49597642/d9fe6fae-4aee-4127-8750-0b368ae96324">
 
